@@ -5,7 +5,7 @@ let firstName = Francis;
 let lastName = Cyr;
 
 // TODO: Create a variable named `sayHello` and build the following string based on the variables
-let sayHello = "Hello world! My name is "+firstName+" "+lastName+". Nice to meet you!"
+let sayHello = "Hello world! My name is "+firstName+" "+lastName+". Nice to meet you!";
 // above: "Hello world! My name is <firstName> <lastName>. Nice to meet you!". 
 
 
